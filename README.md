@@ -58,6 +58,5 @@ The best score is stored in `UserDefaults` under the key `best`. To clear it, de
 
 - "You win" message when a 2048 tile appears, with an option to keep playing
 - Undo last move
-- Haptic feedback on merges
 - Keyboard and arrow-key support for iPad and Mac
 - Unit tests for `GameModel` (merge rules, no double merges, game-over detection)
